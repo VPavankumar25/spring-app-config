@@ -9,4 +9,4 @@ eureka:
       
 spring:
   zipkin:
-    baseurl: http://zipkin-svc:9411
+    baseurl: http://localhost:9411
